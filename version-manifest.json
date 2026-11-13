@@ -1,7 +1,7 @@
 {
   "channels": {
     "stable": {
-      "version": "1.0.0",
+      "version": "5.0.19",
       "released": "2026-11-13",
       "images": {
         "aio": "asiqurrahman/trackflow:production",
