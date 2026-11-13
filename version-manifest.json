@@ -1,0 +1,13 @@
+{
+  "channels": {
+    "stable": {
+      "version": "1.0.0",
+      "released": "2026-11-13",
+      "images": {
+        "aio": "asiqurrahman/trackflow:production",
+        "mcp": "asiqurrahman/trackflow-mcp:production",
+        "db": "asiqurrahman/trackflow-db:production"
+      }
+    }
+  }
+}
