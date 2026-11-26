@@ -1,11 +1,12 @@
 {
   "channels": {
     "stable": {
-      "version": "6.0.0",
+      "version": "7.0.0",
       "released": "2026-11-26",
       "images": {
         "aio": "asiqurrahman/trackflow:production",
         "mcp": "asiqurrahman/trackflow-mcp:production",
+        "chat": "asiqurrahman/trackflow-chat:production",
         "db": "asiqurrahman/trackflow-db:production"
       }
     }
