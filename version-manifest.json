@@ -1,8 +1,8 @@
 {
   "channels": {
     "stable": {
-      "version": "9.5.4",
-      "released": "2026-11-27",
+      "version": "9.5.5",
+      "released": "2026-11-28",
       "images": {
         "aio": "asiqurrahman/trackflow:production",
         "mcp": "asiqurrahman/trackflow-mcp:production",
